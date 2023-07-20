@@ -1,0 +1,4 @@
+{
+  "extends": "next/core-web-vitals"
+}
+// 코딩컨벤션, 개발자들끼리 약속을 정하는 곳
